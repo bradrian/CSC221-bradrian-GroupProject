@@ -7,4 +7,4 @@ __Project Description:__ Web Scraping project to gather data from the Median Inc
 
 __Webscraped URL:__ Median Income [Lego Games URL: https://en.wikipedia.org/wiki/Lego_Games](https://en.wikipedia.org/wiki/Lego_Games)
 
-__Collaborator:__ Brian Aguirre (baaguirre@my.waketech.edu)
+__Collaborator:__ Brian Aguirre (baaguirre@my.waketech.edu) ACCEPTED 
